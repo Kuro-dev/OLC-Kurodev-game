@@ -24,6 +24,7 @@
     <ProjectGuid>{735ce1b5-177b-442a-8d37-424d32a240d1}</ProjectGuid>
     <RootNamespace>Olctest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>kurodev-game</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
